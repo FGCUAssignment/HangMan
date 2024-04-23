@@ -43,5 +43,3 @@ while not done:
 #Fail message
 if done:
   print(f"It was {word} !1!1!1!1!1!1!1!1")
-else:
-  print(f"You failed!!!!! It was {word}")
